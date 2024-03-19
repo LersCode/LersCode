@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💻 Tech Stack:
+
+CSS3 HTML5 JavaScript TypeScript Angular React Bootstrap NodeJS ANDROID Flutter MySQL Figma Confluence Docker Jira Postman Swagger Azure
+
+
 <!--
 **LersCode/LersCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
