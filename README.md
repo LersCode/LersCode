@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Tech Stack:
+### 💻 Tech Stack:
 <!--
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge) 
@@ -90,14 +90,14 @@
 ![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge) 
 
 
-### ✍️ Random Dev Quote
+### ✍🏼 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lerscode&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+### 📊 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lerscode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
