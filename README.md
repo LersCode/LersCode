@@ -15,10 +15,10 @@
 <br>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)   
 <br>
-![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat) ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat-square) ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=plastic)
+![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat-square)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lerscode&theme=discord&no-frame=false&no-bg=true&margin-w=4)
