@@ -14,11 +14,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)   
-<br>
-![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ![AniList Badge](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff&style=flat-square)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lerscode&theme=discord&no-frame=false&no-bg=true&margin-w=4)
