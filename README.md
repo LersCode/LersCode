@@ -13,6 +13,19 @@
 <br>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)   
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lerscode&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lerscode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lerscode&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 **LersCode/LersCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
