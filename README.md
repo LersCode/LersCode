@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💻 Tech Stack:
-
+<!--
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge) 
 ![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=for-the-badge)
@@ -49,7 +49,7 @@
 <br>
 <br>
 <br>
-
+-->
 ![7Zip Badge](https://img.shields.io/badge/7Zip-000?logo=7zip&logoColor=fff&style=for-the-badge) 
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge) 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge) 
@@ -73,7 +73,7 @@
 ![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=for-the-badge) 
 ![MailChimp Badge](https://img.shields.io/badge/MailChimp-FFE01B?logo=mailchimp&logoColor=000&style=for-the-badge) 
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge) 
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)  
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge) 
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge) 
